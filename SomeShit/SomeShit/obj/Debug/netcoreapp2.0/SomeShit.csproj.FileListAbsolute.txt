@@ -1,0 +1,11 @@
+C:\Users\ENVY\Documents\Visual Studio 2017\Projects\SomeShit\SomeShit\bin\Debug\netcoreapp2.0\SomeShit.deps.json
+C:\Users\ENVY\Documents\Visual Studio 2017\Projects\SomeShit\SomeShit\bin\Debug\netcoreapp2.0\SomeShit.runtimeconfig.json
+C:\Users\ENVY\Documents\Visual Studio 2017\Projects\SomeShit\SomeShit\bin\Debug\netcoreapp2.0\SomeShit.runtimeconfig.dev.json
+C:\Users\ENVY\Documents\Visual Studio 2017\Projects\SomeShit\SomeShit\bin\Debug\netcoreapp2.0\SomeShit.dll
+C:\Users\ENVY\Documents\Visual Studio 2017\Projects\SomeShit\SomeShit\bin\Debug\netcoreapp2.0\SomeShit.pdb
+C:\Users\ENVY\Documents\Visual Studio 2017\Projects\SomeShit\SomeShit\obj\Debug\netcoreapp2.0\SomeShit.csprojResolveAssemblyReference.cache
+C:\Users\ENVY\Documents\Visual Studio 2017\Projects\SomeShit\SomeShit\obj\Debug\netcoreapp2.0\SomeShit.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Documents\Visual Studio 2017\Projects\SomeShit\SomeShit\obj\Debug\netcoreapp2.0\SomeShit.AssemblyInfoInputs.cache
+C:\Users\ENVY\Documents\Visual Studio 2017\Projects\SomeShit\SomeShit\obj\Debug\netcoreapp2.0\SomeShit.AssemblyInfo.cs
+C:\Users\ENVY\Documents\Visual Studio 2017\Projects\SomeShit\SomeShit\obj\Debug\netcoreapp2.0\SomeShit.dll
+C:\Users\ENVY\Documents\Visual Studio 2017\Projects\SomeShit\SomeShit\obj\Debug\netcoreapp2.0\SomeShit.pdb
